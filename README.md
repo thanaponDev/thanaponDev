@@ -1,23 +1,22 @@
 <!--
   GitHub Profile README — Teeratat Wiboonsanti
-  Before publishing:
-  1. Replace YOUR_USERNAME with your GitHub username (where indicated).
-  2. Replace [Insert Your University Name] with your university.
-  3. Add real projects and links when you are ready to showcase them.
-  The learning map includes current interests and topics to explore; it does not imply mastery of every tool.
+  Photos and certificates are referenced from ./assets/ in the same repository.
+  File name capitalization matters: .PNG, .JPG and .jpeg are used exactly as supplied.
+  Labels are based on filenames, not independently verified award descriptions.
 -->
-
-<img width="100%" alt="Teeratat Wiboonsanti profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=230&section=header&text=Teeratat%20Wiboonsanti&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20Web%20Development%20%7C%20Robotics&descAlignY=77&descSize=17" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Computer+Technology+%26+Engineering+Student;Web+Development+%7C+Embedded+Systems;Robotics+%7C+Automation+%7C+IoT;Learning+by+Doing+%E2%80%A2+Building+with+Purpose)](https://git.io/typing-svg)
+<img width="100%" alt="Teeratat Wiboonsanti — Computer Technology & Engineering" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:1e40af,100:06b6d4&height=240&section=header&text=Teeratat%20Wiboonsanti&fontSize=44&fontColor=ffffff&fontAlignY=37&animation=fadeIn&desc=Computer%20Technology%20%26%20Engineering%20%7C%20Robotics%20%7C%20Web%20Development&descAlignY=60&descSize=17" />
 
-![Student](https://img.shields.io/badge/University-First--Year_Student-2563EB?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Software_%2B_Hardware-0891B2?style=for-the-badge)
-![Interests](https://img.shields.io/badge/Interests-Robotics_%26_IoT-0F766E?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Engineering+Student+%F0%9F%8E%93;Robotics+%7C+Embedded+Systems+%7C+IoT;Web+Development+%7C+AI+%7C+Computer+Vision;Learn.+Build.+Experiment.+Improve.)](https://git.io/typing-svg)
+
+<img src="https://img.shields.io/badge/Student-First_Year-2563EB?style=for-the-badge" alt="First year student" />
+<img src="https://img.shields.io/badge/Focus-Robotics_%26_Engineering-0891B2?style=for-the-badge" alt="Robotics and engineering" />
+<img src="https://img.shields.io/badge/Passion-Learning_by_Doing-0F766E?style=for-the-badge" alt="Learning by doing" />
 
 <p>
+  <a href="https://github.com/Party"><img src="https://img.shields.io/badge/GitHub-Party-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:thippaya.w1971@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://line.me/ti/p/BGCkAemJQA"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE" /></a>
   <a href="https://www.facebook.com/share/1HGtMA94CT/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -26,40 +25,243 @@
 
 **Curious mind. Hands-on learner. Future engineer.** 🚀
 
+<sub>Exploring the intersection of software, hardware, robotics, and meaningful community work.</sub>
+
 </div>
 
 ---
 
 ## 👋 About Me
 
-Hi! I'm **Teeratat Wiboonsanti** (ธีรธัฐฐิ์ วิบูลสันติ), a **first-year university student** studying **Computer Technology Education & Computer Engineering Education**.
+Hi! I'm **Teeratat Wiboonsanti** (ธีรธัฐฐิ์ วิบูลสันติ), a first-year university student studying **Computer Technology Education & Computer Engineering Education**.
 
-I'm passionate about connecting **software, hardware, and creative problem-solving**. I enjoy web development, robotics, embedded systems, and experimenting with technologies that can help solve real-world problems. I also value **volunteering, teamwork, and community service**.
+I enjoy building web applications, learning about **embedded systems and robotics**, and exploring how AI, sensors, and software can work together. I also value **volunteering, collaboration, and giving back to the community**.
 
-I believe the best way to learn engineering is to **build, test, improve, and share**.
+> **My approach:** Learn the fundamentals → Build something real → Test and improve → Share what I learned.
 
-## 🎓 Education
+### 🎓 Education & Interests
 
-| Detail             | Information                                                    |
-| ------------------ | -------------------------------------------------------------- |
-| **Field of Study** | Computer Technology Education & Computer Engineering Education |
-| **Current Year**   | First-Year Undergraduate Student                               |
-| **University**     | King Mongkut's Institute of Technology Ladkrabang              |
+| Education | Main Interests |
+| :-- | :-- |
+| **Field:** Computer Technology Education & Computer Engineering Education | **Software:** Web Development, AI & Computer Vision |
+| **Year:** First-Year Undergraduate | **Hardware:** Robotics, Microcontrollers, Electronics & IoT |
+| **University:** [Insert Your University Name] | **Community:** Volunteering & Service Projects |
 
-## 🎯 Areas of Interest
+---
 
-- 🌐 **Web Development:** Creating useful and accessible web applications.
-- 🤖 **Robotics & Automation:** Connecting sensors, control systems, and software.
-- ⚙️ **Embedded Systems & IoT:** Building smarter devices with microcontrollers.
-- 🧠 **AI & Computer Vision:** Exploring intelligent perception for real-world systems.
-- 🔧 **Electronics & Engineering Design:** Learning through prototypes and experimentation.
-- 🌱 **Community & Volunteering:** Using technology to create a positive impact.
+## ✨ Highlights
+
+<div align="center">
+
+**A few moments from my learning journey and activities**
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./assets/ai-next-gen.jpg"><img src="./assets/ai-next-gen.jpg" alt="AI Next Gen" width="260" /></a>
+      <br/><sub><b>AI Next Gen</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/mini-robot.jpg"><img src="./assets/mini-robot.jpg" alt="Mini Robot" width="260" /></a>
+      <br/><sub><b>Mini Robot</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/beach-volunteer.jpg"><img src="./assets/beach-volunteer.jpg" alt="Beach Volunteering" width="260" /></a>
+      <br/><sub><b>Beach Volunteering</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📸 Projects & Activities
+
+A visual collection of robotics, STEM learning, innovation activities, and volunteering. **Click any picture to see it full size.**
+
+### 🤖 Robotics, STEM & Innovation
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./assets/ai-next-gen.jpg"><img src="./assets/ai-next-gen.jpg" alt="AI Next Gen" width="260" /></a>
+      <br/><sub><b>AI Next Gen</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/innovex-gold.jpg"><img src="./assets/innovex-gold.jpg" alt="Innovex Gold" width="260" /></a>
+      <br/><sub><b>Innovex Gold</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/innovex-robotic.jpg"><img src="./assets/innovex-robotic.jpg" alt="Innovex Robotics" width="260" /></a>
+      <br/><sub><b>Innovex Robotics</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./assets/robo-ai-inno.jpg"><img src="./assets/robo-ai-inno.jpg" alt="Robo AI Innovation" width="260" /></a>
+      <br/><sub><b>Robo AI Innovation</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/compi-robot.jpg"><img src="./assets/compi-robot.jpg" alt="Computer & Robotics" width="260" /></a>
+      <br/><sub><b>Computer & Robotics</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/mini-robot.jpg"><img src="./assets/mini-robot.jpg" alt="Mini Robot" width="260" /></a>
+      <br/><sub><b>Mini Robot</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./assets/mini-robot-cha.jpg"><img src="./assets/mini-robot-cha.jpg" alt="Mini Robot Challenge" width="260" /></a>
+      <br/><sub><b>Mini Robot Challenge</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/sarasas-robotic.jpg"><img src="./assets/sarasas-robotic.jpg" alt="Sarasas Robotics" width="260" /></a>
+      <br/><sub><b>Sarasas Robotics</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/stem-robotic.jpg"><img src="./assets/stem-robotic.jpg" alt="STEM Robotics" width="260" /></a>
+      <br/><sub><b>STEM Robotics</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./assets/robotic_kmitl.PNG"><img src="./assets/robotic_kmitl.PNG" alt="KMITL Robotics" width="260" /></a>
+      <br/><sub><b>KMITL Robotics</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/training-arduino.jpg"><img src="./assets/training-arduino.jpg" alt="Arduino Training" width="260" /></a>
+      <br/><sub><b>Arduino Training</b></sub>
+    </td>
+    <td width="33%"></td>
+  </tr>
+</table>
+
+### 🌱 Volunteering & Community
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./assets/beach-volunteer.jpg"><img src="./assets/beach-volunteer.jpg" alt="Beach Volunteering" width="260" /></a>
+      <br/><sub><b>Beach Volunteering</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/one-fine-volunteer.jpg"><img src="./assets/one-fine-volunteer.jpg" alt="One Fine Volunteering" width="260" /></a>
+      <br/><sub><b>One Fine Volunteering</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/staff_nurse.JPG"><img src="./assets/staff_nurse.JPG" alt="Staff & Nurse Activity" width="260" /></a>
+      <br/><sub><b>Staff & Nurse Activity</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 📷 Other Activities & Moments
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./assets/network_activity.PNG"><img src="./assets/network_activity.PNG" alt="Network Activity" width="260" /></a>
+      <br/><sub><b>Network Activity</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/shirt_award.jpeg"><img src="./assets/shirt_award.jpeg" alt="Shirt Award" width="260" /></a>
+      <br/><sub><b>Shirt Award</b></sub>
+    </td>
+    <td width="33%"></td>
+  </tr>
+</table>
+
+---
+
+## 🏅 Certificates
+
+Certificates are displayed **separately** from activity photos. Where the filenames match, the certificate belongs to the similarly named activity. Some certificates do not have a matching activity photo in this collection.
+
+<details>
+<summary><b>📜 View all 14 certificates (click to expand)</b></summary>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./assets/certificate-ai-next-gen.jpg"><img src="./assets/certificate-ai-next-gen.jpg" alt="AI Next Gen" width="260" /></a>
+      <br/><sub><b>AI Next Gen</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/certificate-beach-volunteer.jpg"><img src="./assets/certificate-beach-volunteer.jpg" alt="Beach Volunteering" width="260" /></a>
+      <br/><sub><b>Beach Volunteering</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/certificate-compi-robot.jpg"><img src="./assets/certificate-compi-robot.jpg" alt="Computer & Robotics" width="260" /></a>
+      <br/><sub><b>Computer & Robotics</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./assets/certificate-innovex-gold.jpg"><img src="./assets/certificate-innovex-gold.jpg" alt="Innovex Gold" width="260" /></a>
+      <br/><sub><b>Innovex Gold</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/certificate-innovex-robotic.jpg"><img src="./assets/certificate-innovex-robotic.jpg" alt="Innovex Robotics" width="260" /></a>
+      <br/><sub><b>Innovex Robotics</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/certificate-mini-robot-cha.jpg"><img src="./assets/certificate-mini-robot-cha.jpg" alt="Mini Robot Challenge" width="260" /></a>
+      <br/><sub><b>Mini Robot Challenge</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./assets/certificate-mini-robot.jpg"><img src="./assets/certificate-mini-robot.jpg" alt="Mini Robot" width="260" /></a>
+      <br/><sub><b>Mini Robot</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/certificate-one-fine-volunteer.jpg"><img src="./assets/certificate-one-fine-volunteer.jpg" alt="One Fine Volunteering" width="260" /></a>
+      <br/><sub><b>One Fine Volunteering</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/certificate-robo-ai-inno.jpg"><img src="./assets/certificate-robo-ai-inno.jpg" alt="Robo AI Innovation" width="260" /></a>
+      <br/><sub><b>Robo AI Innovation</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./assets/certificate-rocket-1.jpg"><img src="./assets/certificate-rocket-1.jpg" alt="Rocket · Certificate 1" width="260" /></a>
+      <br/><sub><b>Rocket · Certificate 1</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/certificate-rocket-2.jpg"><img src="./assets/certificate-rocket-2.jpg" alt="Rocket · Certificate 2" width="260" /></a>
+      <br/><sub><b>Rocket · Certificate 2</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/certificate-sarasas-robotic.jpg"><img src="./assets/certificate-sarasas-robotic.jpg" alt="Sarasas Robotics" width="260" /></a>
+      <br/><sub><b>Sarasas Robotics</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./assets/certificate-stem-robotic.jpg"><img src="./assets/certificate-stem-robotic.jpg" alt="STEM Robotics" width="260" /></a>
+      <br/><sub><b>STEM Robotics</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/certificate_koart.jpg"><img src="./assets/certificate_koart.jpg" alt="Koart Certificate" width="260" /></a>
+      <br/><sub><b>Koart Certificate</b></sub>
+    </td>
+    <td width="33%"></td>
+  </tr>
+</table>
+
+</details>
 
 ---
 
 ## 🧰 Technologies & Learning Roadmap
 
-> These are technologies I **use, study, or want to explore** during my engineering journey — not a claim of expert-level experience in every item.
+These are technologies I **work with, am learning, or plan to explore** — not a claim of mastery in every topic.
+
+<details>
+<summary><b>🛠️ Explore the full tech stack — 10 areas</b></summary>
 
 ### 01 · 💻 Programming Languages
 
@@ -175,51 +377,45 @@ I believe the best way to learn engineering is to **build, test, improve, and sh
 - **Build & automation:** `CMake` · `GitHub Actions` · `CI/CD`
 - **Testing practices:** `Unit Testing` · `Hardware-in-the-Loop Testing`
 
+</details>
+
 ---
 
-## 💡 What I Want to Build
+## 💡 Areas I Want to Build In
 
-I'm interested in applying what I learn to projects such as:
-
-| Direction                | Project Ideas                                                             |
-| ------------------------ | ------------------------------------------------------------------------- |
-| 🤖 **Robotics**          | Sensor-based robots, motion control, autonomous navigation                |
-| 📡 **Embedded & IoT**    | Smart monitoring devices, wireless sensor networks, real-time dashboards  |
-| 🧠 **AI + Hardware**     | Computer vision prototypes, Edge AI and TinyML experiments                |
-| 🌐 **Web + Engineering** | Interfaces for monitoring, visualizing, and controlling connected systems |
-| 🌱 **Community Impact**  | Accessible technology and volunteer-driven engineering projects           |
-
-_Project links and demos can be added here as they are completed._
+| Direction | What I'd Like to Explore |
+| :-- | :-- |
+| 🤖 **Robotics & Automation** | Sensors, robot control, navigation, and real-world prototypes |
+| 🔌 **Embedded Systems & IoT** | Arduino, ESP32, monitoring devices, and wireless connectivity |
+| 🧠 **AI + Computer Vision** | Image processing, object detection, and on-device intelligence |
+| 🌐 **Web + Engineering** | Dashboards and interfaces that connect software with hardware |
+| 🌱 **Community Projects** | Accessible technology, student activities, and volunteering |
 
 ## 🚀 My Goal
 
-To grow into an engineer who can combine **software, electronics, robotics, and creativity** to build practical technologies that make a difference. I'm always looking forward to learning, collaborating, and turning ideas into working prototypes.
-
-## 🤝 Let's Connect
-
-Feel free to reach out for engineering projects, volunteering, or collaboration!
-
-| Channel          | Contact                                                                     |
-| :--------------- | :-------------------------------------------------------------------------- |
-| 📞 **Phone**     | [097-105-5825](tel:+66971055825)                                            |
-| ✉️ **Email**     | [thippaya.w1971@gmail.com](mailto:thippaya.w1971@gmail.com)                 |
-| 💬 **LINE**      | `9660810teeratatwiboo` · [Add LINE Friend](https://line.me/ti/p/BGCkAemJQA) |
-| 👤 **Facebook**  | [Teeratat Wiboonsanti](https://www.facebook.com/share/1HGtMA94CT/)          |
-| 📸 **Instagram** | [@party_wiboonsanti](https://www.instagram.com/party_wiboonsanti/)          |
-| 💻 **GitHub**    | [GitHub Profile](https://github.com/69030115-png)                           |
-
-Optional: After setting your GitHub username, uncomment the following stats section.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=69030115-png&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</div>
+To grow into an engineer who can combine **software, electronics, robotics, and creativity** to build practical technologies that make a difference. I believe progress comes from curiosity, teamwork, and consistent hands-on practice.
 
 ---
 
+## 🤝 Let's Connect
+
+Interested in engineering, projects, or volunteer activities? Feel free to connect!
+
+| Channel | Contact |
+| :-- | :-- |
+| 📞 **Phone** | [097-105-5825](tel:+66971055825) |
+| ✉️ **Email** | [thippaya.w1971@gmail.com](mailto:thippaya.w1971@gmail.com) |
+| 💬 **LINE** | `9660810teeratatwiboo` · [Add LINE Friend](https://line.me/ti/p/BGCkAemJQA) |
+| 👤 **Facebook** | [Teeratat Wiboonsanti](https://www.facebook.com/share/1HGtMA94CT/) |
+| 📸 **Instagram** | [@party_wiboonsanti](https://www.instagram.com/party_wiboonsanti/) |
+| 💻 **GitHub** | [github.com/Party](https://github.com/Party) |
+
 <div align="center">
 
-_“Learning by doing, building with passion, and creating technology for a better future.”_ 🚀
+<img alt="GitHub stats for Party" src="https://github-readme-stats.vercel.app/api?username=Party&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=110&section=footer" />
+*“Learning by doing, building with passion, and creating technology for a better future.”* 🚀
+
+<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:1e40af,100:06b6d4&height=105&section=footer" />
 
 </div>
