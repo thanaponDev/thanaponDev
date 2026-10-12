@@ -17,6 +17,13 @@
 ![Focus](https://img.shields.io/badge/Focus-Software_%2B_Hardware-0891B2?style=for-the-badge)
 ![Interests](https://img.shields.io/badge/Interests-Robotics_%26_IoT-0F766E?style=for-the-badge)
 
+<p>
+  <a href="mailto:thippaya.w1971@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://line.me/ti/p/BGCkAemJQA"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE" /></a>
+  <a href="https://www.facebook.com/share/1HGtMA94CT/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/party_wiboonsanti/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
 **Curious mind. Hands-on learner. Future engineer.** 🚀
 
 </div>
@@ -190,14 +197,22 @@ To grow into an engineer who can combine **software, electronics, robotics, and 
 
 ## 🤝 Let's Connect
 
-- **GitHub:** [Teeratat Wiboonsanti](https://github.com/KetenZits) — replace `YOUR_USERNAME` with the actual GitHub handle.
-- **Collaboration:** Open to learning together, engineering projects, and volunteer initiatives.
+Feel free to reach out for engineering projects, volunteering, or collaboration!
 
-<!-- Optional: After setting your username, uncomment and replace YOUR_USERNAME to add live GitHub stats.
+| Channel          | Contact                                                                     |
+| :--------------- | :-------------------------------------------------------------------------- |
+| 📞 **Phone**     | [097-105-5825](tel:+66971055825)                                            |
+| ✉️ **Email**     | [thippaya.w1971@gmail.com](mailto:thippaya.w1971@gmail.com)                 |
+| 💬 **LINE**      | `9660810teeratatwiboo` · [Add LINE Friend](https://line.me/ti/p/BGCkAemJQA) |
+| 👤 **Facebook**  | [Teeratat Wiboonsanti](https://www.facebook.com/share/1HGtMA94CT/)          |
+| 📸 **Instagram** | [@party_wiboonsanti](https://www.instagram.com/party_wiboonsanti/)          |
+| 💻 **GitHub**    | [GitHub Profile](https://github.com/KetenZits) _(replace `KetenZits`)_      |
+
+Optional: After setting your GitHub username, uncomment the following stats section.
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KetenZits&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </div>
--->
 
 ---
 
