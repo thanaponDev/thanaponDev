@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" alt="Teeratat Wiboonsanti — Computer Technology & Engineering" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:1e40af,100:06b6d4&height=240&section=header&text=Teeratat%20Wiboonsanti&fontSize=44&fontColor=ffffff&fontAlignY=37&animation=fadeIn&desc=Computer%20Technology%20%26%20Engineering%20%7C%20Robotics%20%7C%20Web%20Development&descAlignY=60&descSize=17" />
+<img width="100%" alt="Teeratat Wiboonsanti — Computer Technology & Engineering" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:1e40af,100:06b6d4&height=240&section=header&text=Teeratat%20Wiboonsanti&fontSize=44&fontColor=ffffff&fontAlignY=37&animation=fadeIn&desc=Computer%20Technology%20and%20Engineering%20%7C%20Robotics%20%7C%20Web%20Development&descAlignY=60&descSize=17" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Engineering+Student+%F0%9F%8E%93;Robotics+%7C+Embedded+Systems+%7C+IoT;Web+Development+%7C+AI+%7C+Computer+Vision;Learn.+Build.+Experiment.+Improve.)](https://git.io/typing-svg)
 
