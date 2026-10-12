@@ -1,7 +1,7 @@
 <!--
   GitHub Profile README — Teeratat Wiboonsanti
-  Photos and certificates are referenced from ./assets/ in the same repository.
-  File name capitalization matters: .PNG, .JPG and .jpeg are used exactly as supplied.
+  Photos and certificates are served from the separate public repository thanaponDev/assets (main branch).
+  Asset names are case-sensitive: .PNG, .JPG and .jpeg are used exactly as supplied.
   Labels are based on filenames, not independently verified award descriptions.
 -->
 
@@ -60,15 +60,15 @@ I enjoy building web applications, learning about **embedded systems and robotic
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="./assets/ai-next-gen.jpg"><img src="./assets/ai-next-gen.jpg" alt="AI Next Gen" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/ai-next-gen.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/ai-next-gen.jpg" alt="AI Next Gen" width="260" /></a>
       <br/><sub><b>AI Next Gen</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/mini-robot.jpg"><img src="./assets/mini-robot.jpg" alt="Mini Robot" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot.jpg" alt="Mini Robot" width="260" /></a>
       <br/><sub><b>Mini Robot</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/beach-volunteer.jpg"><img src="./assets/beach-volunteer.jpg" alt="Beach Volunteering" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/beach-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/beach-volunteer.jpg" alt="Beach Volunteering" width="260" /></a>
       <br/><sub><b>Beach Volunteering</b></sub>
     </td>
   </tr>
@@ -85,53 +85,53 @@ A visual collection of robotics, STEM learning, innovation activities, and volun
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="./assets/ai-next-gen.jpg"><img src="./assets/ai-next-gen.jpg" alt="AI Next Gen" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/ai-next-gen.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/ai-next-gen.jpg" alt="AI Next Gen" width="260" /></a>
       <br/><sub><b>AI Next Gen</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/innovex-gold.jpg"><img src="./assets/innovex-gold.jpg" alt="Innovex Gold" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-gold.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-gold.jpg" alt="Innovex Gold" width="260" /></a>
       <br/><sub><b>Innovex Gold</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/innovex-robotic.jpg"><img src="./assets/innovex-robotic.jpg" alt="Innovex Robotics" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-robotic.jpg" alt="Innovex Robotics" width="260" /></a>
       <br/><sub><b>Innovex Robotics</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="./assets/robo-ai-inno.jpg"><img src="./assets/robo-ai-inno.jpg" alt="Robo AI Innovation" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/robo-ai-inno.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/robo-ai-inno.jpg" alt="Robo AI Innovation" width="260" /></a>
       <br/><sub><b>Robo AI Innovation</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/compi-robot.jpg"><img src="./assets/compi-robot.jpg" alt="Computer & Robotics" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/compi-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/compi-robot.jpg" alt="Computer & Robotics" width="260" /></a>
       <br/><sub><b>Computer & Robotics</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/mini-robot.jpg"><img src="./assets/mini-robot.jpg" alt="Mini Robot" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot.jpg" alt="Mini Robot" width="260" /></a>
       <br/><sub><b>Mini Robot</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="./assets/mini-robot-cha.jpg"><img src="./assets/mini-robot-cha.jpg" alt="Mini Robot Challenge" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot-cha.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot-cha.jpg" alt="Mini Robot Challenge" width="260" /></a>
       <br/><sub><b>Mini Robot Challenge</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/sarasas-robotic.jpg"><img src="./assets/sarasas-robotic.jpg" alt="Sarasas Robotics" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/sarasas-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/sarasas-robotic.jpg" alt="Sarasas Robotics" width="260" /></a>
       <br/><sub><b>Sarasas Robotics</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/stem-robotic.jpg"><img src="./assets/stem-robotic.jpg" alt="STEM Robotics" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/stem-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/stem-robotic.jpg" alt="STEM Robotics" width="260" /></a>
       <br/><sub><b>STEM Robotics</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="./assets/robotic_kmitl.PNG"><img src="./assets/robotic_kmitl.PNG" alt="KMITL Robotics" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/robotic_kmitl.PNG"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/robotic_kmitl.PNG" alt="KMITL Robotics" width="260" /></a>
       <br/><sub><b>KMITL Robotics</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/training-arduino.jpg"><img src="./assets/training-arduino.jpg" alt="Arduino Training" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/training-arduino.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/training-arduino.jpg" alt="Arduino Training" width="260" /></a>
       <br/><sub><b>Arduino Training</b></sub>
     </td>
     <td width="33%"></td>
@@ -143,15 +143,15 @@ A visual collection of robotics, STEM learning, innovation activities, and volun
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="./assets/beach-volunteer.jpg"><img src="./assets/beach-volunteer.jpg" alt="Beach Volunteering" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/beach-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/beach-volunteer.jpg" alt="Beach Volunteering" width="260" /></a>
       <br/><sub><b>Beach Volunteering</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/one-fine-volunteer.jpg"><img src="./assets/one-fine-volunteer.jpg" alt="One Fine Volunteering" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/one-fine-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/one-fine-volunteer.jpg" alt="One Fine Volunteering" width="260" /></a>
       <br/><sub><b>One Fine Volunteering</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/staff_nurse.JPG"><img src="./assets/staff_nurse.JPG" alt="Staff & Nurse Activity" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/staff_nurse.JPG"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/staff_nurse.JPG" alt="Staff & Nurse Activity" width="260" /></a>
       <br/><sub><b>Staff & Nurse Activity</b></sub>
     </td>
   </tr>
@@ -162,11 +162,11 @@ A visual collection of robotics, STEM learning, innovation activities, and volun
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="./assets/network_activity.PNG"><img src="./assets/network_activity.PNG" alt="Network Activity" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/network_activity.PNG"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/network_activity.PNG" alt="Network Activity" width="260" /></a>
       <br/><sub><b>Network Activity</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/shirt_award.jpeg"><img src="./assets/shirt_award.jpeg" alt="Shirt Award" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/shirt_award.jpeg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/shirt_award.jpeg" alt="Shirt Award" width="260" /></a>
       <br/><sub><b>Shirt Award</b></sub>
     </td>
     <td width="33%"></td>
@@ -185,68 +185,68 @@ Certificates are displayed **separately** from activity photos. Where the filena
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="./assets/certificate-ai-next-gen.jpg"><img src="./assets/certificate-ai-next-gen.jpg" alt="AI Next Gen" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-ai-next-gen.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-ai-next-gen.jpg" alt="AI Next Gen" width="260" /></a>
       <br/><sub><b>AI Next Gen</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/certificate-beach-volunteer.jpg"><img src="./assets/certificate-beach-volunteer.jpg" alt="Beach Volunteering" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-beach-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-beach-volunteer.jpg" alt="Beach Volunteering" width="260" /></a>
       <br/><sub><b>Beach Volunteering</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/certificate-compi-robot.jpg"><img src="./assets/certificate-compi-robot.jpg" alt="Computer & Robotics" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-compi-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-compi-robot.jpg" alt="Computer & Robotics" width="260" /></a>
       <br/><sub><b>Computer & Robotics</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="./assets/certificate-innovex-gold.jpg"><img src="./assets/certificate-innovex-gold.jpg" alt="Innovex Gold" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-gold.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-gold.jpg" alt="Innovex Gold" width="260" /></a>
       <br/><sub><b>Innovex Gold</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/certificate-innovex-robotic.jpg"><img src="./assets/certificate-innovex-robotic.jpg" alt="Innovex Robotics" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-robotic.jpg" alt="Innovex Robotics" width="260" /></a>
       <br/><sub><b>Innovex Robotics</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/certificate-mini-robot-cha.jpg"><img src="./assets/certificate-mini-robot-cha.jpg" alt="Mini Robot Challenge" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot-cha.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot-cha.jpg" alt="Mini Robot Challenge" width="260" /></a>
       <br/><sub><b>Mini Robot Challenge</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="./assets/certificate-mini-robot.jpg"><img src="./assets/certificate-mini-robot.jpg" alt="Mini Robot" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot.jpg" alt="Mini Robot" width="260" /></a>
       <br/><sub><b>Mini Robot</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/certificate-one-fine-volunteer.jpg"><img src="./assets/certificate-one-fine-volunteer.jpg" alt="One Fine Volunteering" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-one-fine-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-one-fine-volunteer.jpg" alt="One Fine Volunteering" width="260" /></a>
       <br/><sub><b>One Fine Volunteering</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/certificate-robo-ai-inno.jpg"><img src="./assets/certificate-robo-ai-inno.jpg" alt="Robo AI Innovation" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-robo-ai-inno.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-robo-ai-inno.jpg" alt="Robo AI Innovation" width="260" /></a>
       <br/><sub><b>Robo AI Innovation</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="./assets/certificate-rocket-1.jpg"><img src="./assets/certificate-rocket-1.jpg" alt="Rocket · Certificate 1" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-1.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-1.jpg" alt="Rocket · Certificate 1" width="260" /></a>
       <br/><sub><b>Rocket · Certificate 1</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/certificate-rocket-2.jpg"><img src="./assets/certificate-rocket-2.jpg" alt="Rocket · Certificate 2" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-2.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-2.jpg" alt="Rocket · Certificate 2" width="260" /></a>
       <br/><sub><b>Rocket · Certificate 2</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/certificate-sarasas-robotic.jpg"><img src="./assets/certificate-sarasas-robotic.jpg" alt="Sarasas Robotics" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-sarasas-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-sarasas-robotic.jpg" alt="Sarasas Robotics" width="260" /></a>
       <br/><sub><b>Sarasas Robotics</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="./assets/certificate-stem-robotic.jpg"><img src="./assets/certificate-stem-robotic.jpg" alt="STEM Robotics" width="260" /></a>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-stem-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-stem-robotic.jpg" alt="STEM Robotics" width="260" /></a>
       <br/><sub><b>STEM Robotics</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/certificate_koart.jpg"><img src="./assets/certificate_koart.jpg" alt="Koart Certificate" width="260" /></a>
-      <br/><sub><b>Koart Certificate</b></sub>
+      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate_korat.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate_korat.jpg" alt="Korat Certificate" width="260" /></a>
+      <br/><sub><b>Korat Certificate</b></sub>
     </td>
     <td width="33%"></td>
   </tr>
