@@ -206,12 +206,12 @@ Feel free to reach out for engineering projects, volunteering, or collaboration!
 | 💬 **LINE**      | `9660810teeratatwiboo` · [Add LINE Friend](https://line.me/ti/p/BGCkAemJQA) |
 | 👤 **Facebook**  | [Teeratat Wiboonsanti](https://www.facebook.com/share/1HGtMA94CT/)          |
 | 📸 **Instagram** | [@party_wiboonsanti](https://www.instagram.com/party_wiboonsanti/)          |
-| 💻 **GitHub**    | [GitHub Profile](https://github.com/thippayaw1971-ops)                                  |
+| 💻 **GitHub**    | [GitHub Profile](https://github.com/69030115-png)                           |
 
 Optional: After setting your GitHub username, uncomment the following stats section.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thippayaw1971-ops&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=69030115-png&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </div>
 
 ---
