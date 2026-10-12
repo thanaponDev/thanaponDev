@@ -44,7 +44,7 @@ I believe the best way to learn engineering is to **build, test, improve, and sh
 | ------------------ | -------------------------------------------------------------- |
 | **Field of Study** | Computer Technology Education & Computer Engineering Education |
 | **Current Year**   | First-Year Undergraduate Student                               |
-| **University**     | [Insert Your University Name]                                  |
+| **University**     | King Mongkut's Institute of Technology Ladkrabang              |
 
 ## 🎯 Areas of Interest
 
