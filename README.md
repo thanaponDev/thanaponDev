@@ -408,11 +408,11 @@ Interested in engineering, projects, or volunteer activities? Feel free to conne
 | 💬 **LINE** | `9660810teeratatwiboo` · [Add LINE Friend](https://line.me/ti/p/BGCkAemJQA) |
 | 👤 **Facebook** | [Teeratat Wiboonsanti](https://www.facebook.com/share/1HGtMA94CT/) |
 | 📸 **Instagram** | [@party_wiboonsanti](https://www.instagram.com/party_wiboonsanti/) |
-| 💻 **GitHub** | [github.com/Party](https://github.com/Party) |
+| 💻 **GitHub** | [github.com/Party](https://github.com/69030115-png) |
 
 <div align="center">
 
-<img alt="GitHub stats for Party" src="https://github-readme-stats.vercel.app/api?username=Party&show_icons=true&theme=tokyonight&hide_border=true" />
+<img alt="GitHub stats for Party" src="https://github-readme-stats.vercel.app/api?username=69030115-png&show_icons=true&theme=tokyonight&hide_border=true" />
 
 *“Learning by doing, building with passion, and creating technology for a better future.”* 🚀
 
