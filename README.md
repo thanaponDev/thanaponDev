@@ -396,7 +396,8 @@ These are technologies I **work with, am learning, or plan to explore** — not 
 To grow into an engineer who can combine **software, electronics, robotics, and creativity** to build practical technologies that make a difference. I believe progress comes from curiosity, teamwork, and consistent hands-on practice.
 
 ---
-
+<div align="center">
+  
 ## 🤝 Let's Connect
 
 Interested in engineering, projects, or volunteer activities? Feel free to connect!
@@ -409,6 +410,8 @@ Interested in engineering, projects, or volunteer activities? Feel free to conne
 | 👤 **Facebook** | [Teeratat Wiboonsanti](https://www.facebook.com/share/1HGtMA94CT/) |
 | 📸 **Instagram** | [@party_wiboonsanti](https://www.instagram.com/party_wiboonsanti/) |
 | 💻 **GitHub** | [github.com/Party](https://github.com/69030115-png) |
+
+</div>
 
 <div align="center">
 
