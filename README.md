@@ -311,7 +311,7 @@ Competitions I participated in during my first year at university, applying my s
       <td valign="middle" align="left"><strong>KORAT WELLBEING HACK 2026 | HACKATHON ด้านเทคโนโลยีสุขภาพสำหรับเยาวชนที่สนใจธุรกิจ</strong><br/><sub>Korat Event</sub></td>
       <td valign="middle" align="center">ผ่านเข้ารอบ 15 ทีม</td>
       <td valign="middle" align="center">ระดับประเทศ</td>
-      <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/korat-pic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/korat-pic" alt="KORAT WELLBEING HACK 2026 | HACKATHON ด้านเทคโนโลยีสุขภาพสำหรับเยาวชนที่สนใจธุรกิจ certificate" width="125" /></a></td>
+      <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/korat-pic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/korat-pic.jpg" alt="KORAT WELLBEING HACK 2026 | HACKATHON ด้านเทคโนโลยีสุขภาพสำหรับเยาวชนที่สนใจธุรกิจ certificate" width="125" /></a></td>
       <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate_korat.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate_korat.jpg" alt="KORAT WELLBEING HACK 2026 | HACKATHON ด้านเทคโนโลยีสุขภาพสำหรับเยาวชนที่สนใจธุรกิจ certificate" width="125" /></a></td>
       <td valign="middle" align="left">ร่วมคิดแนวทาง LIFE VETO ใช้ AI และเซนเซอร์ดูแลสุขภาพ จัดการเสบียง และแจ้งเหตุฉุกเฉินให้ผู้ทำงานในพื้นที่ปิดหรือห่างไกล</td>
     </tr>
