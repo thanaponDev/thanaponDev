@@ -65,32 +65,32 @@ A collection of robotics, innovation, and STEM competitions. **Click any certifi
   </thead>
   <tbody>
     <tr>
-      <td valign="middle"><strong>Mini Robot Challange</strong><br/><sub>Level: Thailand</sub><br/><sub>Award : Honorable Mention</sub><br/><sub>My Work: Make robot</sub></td>
+      <td valign="middle"><strong>Mini Robot Challange</strong><br/><sub>Level : Thailand</sub><br/><sub>Award : Honorable Mention</sub><br/><sub>My Work : Make robot</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot.jpg" alt="Mini Robot certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot.jpg" alt="Mini Robot activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>INNOVEDEX 2025 Robotics competition Thailand</strong><br/><sub>Level: Thailand</sub><br/><sub>Award : Gold</sub><br/><sub>My Work: Leader Coding Find Equipment and Design</sub></td>
+      <td valign="middle"><strong>INNOVEDEX 2025 Robotics competition Thailand</strong><br/><sub>Level : Thailand</sub><br/><sub>Award : Gold</sub><br/><sub>My Work : Leader Coding Find Equipment and Design</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-gold.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-gold.jpg" alt="Innovex Gold certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-gold.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-gold.jpg" alt="Innovex Gold activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>INNOVEDEX 2025 Robotics competition Thailand</strong><br/><sub>Level: Thailand</sub><br/><sub>Award : Honorable Mention</sub><br/><sub>My Work: Leader Coding Find Equipment</sub></td>
+      <td valign="middle"><strong>INNOVEDEX 2025 Robotics competition Thailand</strong><br/><sub>Level : Thailand</sub><br/><sub>Award : Honorable Mention</sub><br/><sub>My Work : Leader Coding Find Equipment</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-robotic.jpg" alt="Innovex Robotics certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-robotic.jpg" alt="Innovex Robotics activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>Training : robotics and ai innovation 2023</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td valign="middle"><strong>Training : robotics and ai innovation 2023</strong><br/><sub>Level : To be confirmed</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-robo-ai-inno.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-robo-ai-inno.jpg" alt="Robo AI Innovation certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/robo-ai-inno.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/robo-ai-inno.jpg" alt="Robo AI Innovation activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>Medium Robot Challange</strong><br/><sub>Level: Thailand</sub><br/><sub>Award : Silver</sub><br/><sub>My Work: Leader Coding Design and Find Equipment</sub></td>
+      <td valign="middle"><strong>Medium Robot Challange</strong><br/><sub>Level : Thailand</sub><br/><sub>Award : Silver</sub><br/><sub>My Work : Leader Coding Design and Find Equipment</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-compi-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-compi-robot.jpg" alt="Computer &amp; Robotics certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/compi-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/compi-robot.jpg" alt="Computer &amp; Robotics activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>CODING & AI ROBOTICS COMPETITION</strong><br/><sub>Level: Thailand</sub><br/><sub>Award : Gold</sub><br/><sub>My Work: Coding Find Equipment Design and Check light value</sub></td>
+      <td valign="middle"><strong>CODING & AI ROBOTICS COMPETITION</strong><br/><sub>Level : Thailand</sub><br/><sub>Award : Gold</sub><br/><sub>My Work : Coding Find Equipment Design and Check light value</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-sarasas-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-sarasas-robotic.jpg" alt="Sarasas Robotics certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/sarasas-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/sarasas-robotic.jpg" alt="Sarasas Robotics activity" width="215" /></a></td>
     </tr>
@@ -113,7 +113,7 @@ Activities and events I have participated in. Certificates are included where av
   </thead>
   <tbody>
     <tr>
-      <td valign="middle"><strong>Water Rocket Championship 24th</strong><br/><sub>Level: Thailand</sub></td>
+      <td valign="middle"><strong>Water Rocket Championship 24th</strong><br/><sub>Level : Thailand</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-1.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-1.jpg" alt="Rocket — Certificate 1 certificate" width="195" /></a></td>
       <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
     </tr>
@@ -146,12 +146,12 @@ Practical learning experiences, workshops, and technical training in AI, robotic
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/training-arduino.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/training-arduino.jpg" alt="Arduino Training activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>Workshop Mini Robot Challange</strong><br/><sub>Level: National level</sub></td>
+      <td valign="middle"><strong>Workshop Mini Robot Challange</strong><br/><sub>Level : National level</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot-cha.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot-cha.jpg" alt="Mini Robot Challenge certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot-cha.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot-cha.jpg" alt="Mini Robot Challenge activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>Workshop Stem&Robotics camp</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td valign="middle"><strong>Workshop Stem&Robotics camp</strong><br/><sub>Level : To be confirmed</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-stem-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-stem-robotic.jpg" alt="STEM Robotics certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/stem-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/stem-robotic.jpg" alt="STEM Robotics activity" width="215" /></a></td>
     </tr>
@@ -283,7 +283,7 @@ Outside the classroom, I enjoy exploring **web development, robotics, electronic
 
 ### 💻 A Little Code I Enjoy
 
-A small **JavaScript** example inspired by building a web-based project gallery:
+A small **JavaScript** example inspired by building a web-based project gallery :
 
 ```javascript
 const projects = [
