@@ -49,210 +49,201 @@ I enjoy building web applications, learning about **embedded systems and robotic
 
 ---
 
-## ✨ Highlights
+## 🏆 Competitions & Challenges
 
-<div align="center">
+A collection of robotics, innovation, and STEM competitions. **Click any certificate or activity photo to view the full image.**
 
-**A few moments from my learning journey and activities**
-
-</div>
+> **Competition levels:** Mini Robot Challenge is listed at national level as provided. Other competition levels and some event names can be updated after confirmation.
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/ai-next-gen.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/ai-next-gen.jpg" alt="AI Next Gen" width="260" /></a>
-      <br/><sub><b>AI Next Gen</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot.jpg" alt="Mini Robot" width="260" /></a>
-      <br/><sub><b>Mini Robot</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/beach-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/beach-volunteer.jpg" alt="Beach Volunteering" width="260" /></a>
-      <br/><sub><b>Beach Volunteering</b></sub>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left" width="28%">Competition &amp; Level</th>
+      <th align="center" width="36%">Certificate</th>
+      <th align="center" width="36%">Activity Photo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="middle"><strong>Mini Robot Challenge</strong><br/><sub>Level: National level</sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot-cha.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot-cha.jpg" alt="Mini Robot Challenge certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot-cha.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot-cha.jpg" alt="Mini Robot Challenge activity" width="215" /></a></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Mini Robot</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot.jpg" alt="Mini Robot certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot.jpg" alt="Mini Robot activity" width="215" /></a></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Innovex Gold</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-gold.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-gold.jpg" alt="Innovex Gold certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-gold.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-gold.jpg" alt="Innovex Gold activity" width="215" /></a></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Innovex Robotics</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-robotic.jpg" alt="Innovex Robotics certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-robotic.jpg" alt="Innovex Robotics activity" width="215" /></a></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Robo AI Innovation</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-robo-ai-inno.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-robo-ai-inno.jpg" alt="Robo AI Innovation certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/robo-ai-inno.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/robo-ai-inno.jpg" alt="Robo AI Innovation activity" width="215" /></a></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Computer &amp; Robotics</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-compi-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-compi-robot.jpg" alt="Computer &amp; Robotics certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/compi-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/compi-robot.jpg" alt="Computer &amp; Robotics activity" width="215" /></a></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Sarasas Robotics</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-sarasas-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-sarasas-robotic.jpg" alt="Sarasas Robotics certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/sarasas-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/sarasas-robotic.jpg" alt="Sarasas Robotics activity" width="215" /></a></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>STEM Robotics</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-stem-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-stem-robotic.jpg" alt="STEM Robotics certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/stem-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/stem-robotic.jpg" alt="STEM Robotics activity" width="215" /></a></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Rocket — Certificate 1</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-1.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-1.jpg" alt="Rocket — Certificate 1 certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Rocket — Certificate 2</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-2.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-2.jpg" alt="Rocket — Certificate 2 certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Korat Event</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate_korat.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate_korat.jpg" alt="Korat Event certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-## 📸 Projects & Activities
+## 🛠️ Training & Workshops
 
-A visual collection of robotics, STEM learning, innovation activities, and volunteering. **Click any picture to see it full size.**
-
-### 🤖 Robotics, STEM & Innovation
+Practical learning experiences, workshops, and technical training in AI, robotics, and embedded systems.
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/ai-next-gen.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/ai-next-gen.jpg" alt="AI Next Gen" width="260" /></a>
-      <br/><sub><b>AI Next Gen</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-gold.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-gold.jpg" alt="Innovex Gold" width="260" /></a>
-      <br/><sub><b>Innovex Gold</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-robotic.jpg" alt="Innovex Robotics" width="260" /></a>
-      <br/><sub><b>Innovex Robotics</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/robo-ai-inno.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/robo-ai-inno.jpg" alt="Robo AI Innovation" width="260" /></a>
-      <br/><sub><b>Robo AI Innovation</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/compi-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/compi-robot.jpg" alt="Computer & Robotics" width="260" /></a>
-      <br/><sub><b>Computer & Robotics</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot.jpg" alt="Mini Robot" width="260" /></a>
-      <br/><sub><b>Mini Robot</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot-cha.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot-cha.jpg" alt="Mini Robot Challenge" width="260" /></a>
-      <br/><sub><b>Mini Robot Challenge</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/sarasas-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/sarasas-robotic.jpg" alt="Sarasas Robotics" width="260" /></a>
-      <br/><sub><b>Sarasas Robotics</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/stem-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/stem-robotic.jpg" alt="STEM Robotics" width="260" /></a>
-      <br/><sub><b>STEM Robotics</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/robotic_kmitl.PNG"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/robotic_kmitl.PNG" alt="KMITL Robotics" width="260" /></a>
-      <br/><sub><b>KMITL Robotics</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/training-arduino.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/training-arduino.jpg" alt="Arduino Training" width="260" /></a>
-      <br/><sub><b>Arduino Training</b></sub>
-    </td>
-    <td width="33%"></td>
-  </tr>
-</table>
-
-### 🌱 Volunteering & Community
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/beach-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/beach-volunteer.jpg" alt="Beach Volunteering" width="260" /></a>
-      <br/><sub><b>Beach Volunteering</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/one-fine-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/one-fine-volunteer.jpg" alt="One Fine Volunteering" width="260" /></a>
-      <br/><sub><b>One Fine Volunteering</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/staff_nurse.JPG"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/staff_nurse.JPG" alt="Staff & Nurse Activity" width="260" /></a>
-      <br/><sub><b>Staff & Nurse Activity</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 📷 Other Activities & Moments
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/network_activity.PNG"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/network_activity.PNG" alt="Network Activity" width="260" /></a>
-      <br/><sub><b>Network Activity</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/shirt_award.jpeg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/shirt_award.jpeg" alt="Shirt Award" width="260" /></a>
-      <br/><sub><b>Shirt Award</b></sub>
-    </td>
-    <td width="33%"></td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left" width="28%">Training / Workshop</th>
+      <th align="center" width="36%">Certificate</th>
+      <th align="center" width="36%">Activity Photo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="middle"><strong>AI Next Gen</strong></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-ai-next-gen.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-ai-next-gen.jpg" alt="AI Next Gen certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/ai-next-gen.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/ai-next-gen.jpg" alt="AI Next Gen activity" width="215" /></a></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Arduino Training</strong></td>
+      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/training-arduino.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/training-arduino.jpg" alt="Arduino Training activity" width="215" /></a></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>KMITL Robotics</strong></td>
+      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/robotic_kmitl.PNG"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/robotic_kmitl.PNG" alt="KMITL Robotics activity" width="215" /></a></td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-## 🏅 Certificates
+## 🌱 Volunteering & Community Service
 
-Certificates are displayed **separately** from activity photos. Where the filenames match, the certificate belongs to the similarly named activity. Some certificates do not have a matching activity photo in this collection.
-
-<details>
-<summary><b>📜 View all 14 certificates (click to expand)</b></summary>
+Volunteering activities and opportunities to support communities through participation and teamwork.
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-ai-next-gen.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-ai-next-gen.jpg" alt="AI Next Gen" width="260" /></a>
-      <br/><sub><b>AI Next Gen</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-beach-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-beach-volunteer.jpg" alt="Beach Volunteering" width="260" /></a>
-      <br/><sub><b>Beach Volunteering</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-compi-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-compi-robot.jpg" alt="Computer & Robotics" width="260" /></a>
-      <br/><sub><b>Computer & Robotics</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-gold.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-gold.jpg" alt="Innovex Gold" width="260" /></a>
-      <br/><sub><b>Innovex Gold</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-robotic.jpg" alt="Innovex Robotics" width="260" /></a>
-      <br/><sub><b>Innovex Robotics</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot-cha.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot-cha.jpg" alt="Mini Robot Challenge" width="260" /></a>
-      <br/><sub><b>Mini Robot Challenge</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot.jpg" alt="Mini Robot" width="260" /></a>
-      <br/><sub><b>Mini Robot</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-one-fine-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-one-fine-volunteer.jpg" alt="One Fine Volunteering" width="260" /></a>
-      <br/><sub><b>One Fine Volunteering</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-robo-ai-inno.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-robo-ai-inno.jpg" alt="Robo AI Innovation" width="260" /></a>
-      <br/><sub><b>Robo AI Innovation</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-1.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-1.jpg" alt="Rocket · Certificate 1" width="260" /></a>
-      <br/><sub><b>Rocket · Certificate 1</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-2.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-2.jpg" alt="Rocket · Certificate 2" width="260" /></a>
-      <br/><sub><b>Rocket · Certificate 2</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-sarasas-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-sarasas-robotic.jpg" alt="Sarasas Robotics" width="260" /></a>
-      <br/><sub><b>Sarasas Robotics</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-stem-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-stem-robotic.jpg" alt="STEM Robotics" width="260" /></a>
-      <br/><sub><b>STEM Robotics</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate_korat.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate_korat.jpg" alt="Korat Certificate" width="260" /></a>
-      <br/><sub><b>Korat Certificate</b></sub>
-    </td>
-    <td width="33%"></td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left" width="28%">Volunteer Activity</th>
+      <th align="center" width="36%">Certificate</th>
+      <th align="center" width="36%">Activity Photo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="middle"><strong>Beach Volunteering</strong></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-beach-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-beach-volunteer.jpg" alt="Beach Volunteering certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/beach-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/beach-volunteer.jpg" alt="Beach Volunteering activity" width="215" /></a></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>One Fine Volunteering</strong></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-one-fine-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-one-fine-volunteer.jpg" alt="One Fine Volunteering certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/one-fine-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/one-fine-volunteer.jpg" alt="One Fine Volunteering activity" width="215" /></a></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Staff &amp; Nurse Activity</strong></td>
+      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/staff_nurse.JPG"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/staff_nurse.JPG" alt="Staff &amp; Nurse Activity activity" width="215" /></a></td>
+    </tr>
+  </tbody>
 </table>
 
-</details>
+---
+
+## 🎓 My First Year at University
+
+Moments and activities from university life. The grouping below is **provisional** and can be refined when the activity details are confirmed.
+
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="28%">University Activity</th>
+      <th align="center" width="36%">Certificate</th>
+      <th align="center" width="36%">Activity Photo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="middle"><strong>Network Activity</strong></td>
+      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/network_activity.PNG"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/network_activity.PNG" alt="Network Activity activity" width="215" /></a></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Shirt Award</strong></td>
+      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/shirt_award.jpeg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/shirt_award.jpeg" alt="Shirt Award activity" width="215" /></a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 🎨 Hobbies & Creative Coding
+
+Outside the classroom, I enjoy exploring **web development, robotics, electronics, and small programming experiments**. I like turning ideas into prototypes and learning new tools along the way.
+
+### 🌐 Web Portfolio
+
+[![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-Visit_Site-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.example)
+[![GitHub Projects](https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Party)
+
+<sub>Portfolio link is a placeholder until the published website URL is provided. The GitHub link above is kept from the original README.</sub>
+
+### 💻 A Little Code I Enjoy
+
+A small **JavaScript** example inspired by building a web-based project gallery:
+
+```javascript
+const projects = [
+  { name: "Mini Robot Challenge", category: "Robotics" },
+  { name: "AI Next Gen", category: "AI & Technology" },
+];
+
+const projectNames = projects.map((project) => project.name);
+console.log("Things I love building:", projectNames.join(" | "));
+```
+
+*Small experiments today, bigger engineering projects tomorrow.* 🚀
 
 ---
 
