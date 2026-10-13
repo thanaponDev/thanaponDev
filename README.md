@@ -146,12 +146,12 @@ Practical learning experiences, workshops, and technical training in AI, robotic
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/training-arduino.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/training-arduino.jpg" alt="Arduino Training activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>Workshop Mini Robot Challange</strong><br/><sub>Level : National level</sub></td>
+      <td valign="middle"><strong>Workshop Mini Robot Challange</strong></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot-cha.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot-cha.jpg" alt="Mini Robot Challenge certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot-cha.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot-cha.jpg" alt="Mini Robot Challenge activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>Workshop Stem&Robotics camp</strong><br/><sub>Level : To be confirmed</sub></td>
+      <td valign="middle"><strong>Workshop Stem&Robotics camp</strong></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-stem-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-stem-robotic.jpg" alt="STEM Robotics certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/stem-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/stem-robotic.jpg" alt="STEM Robotics activity" width="215" /></a></td>
     </tr>
