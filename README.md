@@ -389,7 +389,7 @@ My experiences supporting university events, assisting participants, and working
     <tr>
       <td valign="middle" align="left"><strong>ลาดกระบังนิทรรศน์ 2569 — สตาฟฝ่ายบูธวิทยาลัย</strong></td>
       <td valign="middle" align="center">สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง</td>
-      <td valign="middle" align="center"><sub>📷 เพิ่มรูปภายหลัง</sub></td>
+      <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/kmitl-fes-2.heif"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/kmitl-fes-2.heif" alt="Chalk Games — สตาฟฝ่ายพยาบาล activity" width="160" /></a></td>
       <td valign="middle" align="center">ช่วยจัดเตรียมและดูแลบูธวิทยาลัย ให้ข้อมูลและอำนวยความสะดวกแก่ผู้เข้าชมงาน</td>
     </tr>
     <tr>
