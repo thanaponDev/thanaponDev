@@ -93,8 +93,8 @@ A collection of my achievements, certifications, and experiences in Robotics, Ar
       <td valign="middle" align="left"><strong>MATHIPIC 2568 — ทดสอบความรู้พื้นฐานด้านวิศวกรรมศาสตร์</strong></td>
       <td valign="middle" align="center">เหรียญทองแดง</td>
       <td valign="middle" align="center">ภูมิภาค</td>
-      <td valign="middle" align="center"><sub>📷 เพิ่มรูปภายหลัง</sub></td>
-      <td valign="middle" align="center"><sub>📷 เพิ่มรูปภายหลัง</sub></td>
+      <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/MATHIPIC.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/MATHIPIC.jpg" alt="Mini Robot Challange activity" width="125" /></a></td>
+      <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/MATHIPIC-certificate.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/MATHIPIC-certificate.jpg" alt="Mini Robot Challange activity" width="125" /></a></td>
       <td valign="middle" align="left">ทำข้อสอบวัดความรู้พื้นฐานทางวิศวกรรมศาสตร์ ใช้คณิตศาสตร์และวิทยาศาสตร์วิเคราะห์โจทย์ ได้ 78 คะแนน</td>
     </tr>
     <tr>
@@ -109,8 +109,8 @@ A collection of my achievements, certifications, and experiences in Robotics, Ar
       <td valign="middle" align="left"><strong>CODING &amp; AI ROBOTICS 2024 — Pitching</strong></td>
       <td valign="middle" align="center">ชนะเลิศ</td>
       <td valign="middle" align="center">โรงเรียนในเครือสารสาสน์</td>
-      <td valign="middle" align="center"><sub>📷 เพิ่มรูปภายหลัง</sub></td>
-      <td valign="middle" align="center"><sub>📷 เพิ่มรูปภายหลัง</sub></td>
+      <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/aicoding-pitching.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/aicoding-pitching.jpg" alt="Mini Robot Challange activity" width="125" /></a></td>
+      <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/aicoding-pitching-certificate.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/aicoding-pitching-certificate.jpg" alt="Mini Robot Challange activity" width="125" /></a></td>
       <td valign="middle" align="left">ร่วมออกแบบและเขียนโค้ดหุ่นยนต์ นำเสนอแนวคิด หลักการทำงาน และการนำไปใช้ประโยชน์ต่อกรรมการ</td>
     </tr>
     <tr>
@@ -133,8 +133,8 @@ A collection of my achievements, certifications, and experiences in Robotics, Ar
       <td valign="middle" align="left"><strong>การแข่งขันหุ่นยนต์ สจด. 2567 — หุ่นยนต์เพื่อประชาชน</strong></td>
       <td valign="middle" align="center">เข้ารอบ 12 ทีม</td>
       <td valign="middle" align="center">ประเทศ</td>
-      <td valign="middle" align="center"><sub>📷 เพิ่มรูปภายหลัง</sub></td>
-      <td valign="middle" align="center"><sub>📷 เพิ่มรูปภายหลัง</sub></td>
+      <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/robot-kmitl.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/robot-kmitl.jpg" alt="Mini Robot Challange activity" width="125" /></a></td>
+      <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/robot-kmitl-certificate.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/robot-kmitl-certificate.jpg" alt="Mini Robot Challange activity" width="125" /></a></td>
       <td valign="middle" align="left">ใช้ micro:bit และเซนเซอร์ตรวจจับผู้รอข้าม ควบคุมแขนกั้น พร้อมไฟและเสียงเตือนผู้ขับขี่ เพื่อช่วยให้เด็ก ผู้สูงอายุ และผู้พิการข้ามถนนได้ปลอดภัยขึ้น</td>
     </tr>
   </tbody>
