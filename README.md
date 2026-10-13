@@ -45,7 +45,7 @@ I enjoy building web applications, learning about **embedded systems and robotic
 | :-- | :-- |
 | **Field:** Computer Technology Education & Computer Engineering Education | **Software:** Web Development, AI & Computer Vision |
 | **Year:** First-Year Undergraduate | **Hardware:** Robotics, Microcontrollers, Electronics & IoT |
-| **University:** [Insert Your University Name] | **Community:** Volunteering & Service Projects |
+| **University:** King Mongkut's Institute of Technology Ladkrabang | **Community:** Volunteering & Service Projects |
 
 ---
 
