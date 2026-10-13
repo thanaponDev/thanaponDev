@@ -421,6 +421,11 @@ I enjoy designing and developing websites as a hobby. I created an online portfo
   <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/hob-port-2.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/hob-port-2.jpg" alt="Personal portfolio website — screenshot 2" width="48%" /></a>
 </div>
 
+<div align="center">
+  <p><strong>📱 Scan to Explore the Portfolio</strong></p>
+  <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/hob-port-qr.png"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/hob-port-qr.png" alt="Portfolio website QR code" width="180" /></a>
+</div>
+
 <details>
 <summary><b>💻 View HTML code example — responsive portfolio navigation</b></summary>
 
@@ -463,6 +468,11 @@ I noticed that information about competitions, courses, training programs, camps
   <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/hob-web-3.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/hob-web-3.jpg" alt="Portfolio and Activity Hub — screenshot 3" width="32%" /></a>
   <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/hob-web-4.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/hob-web-4.jpg" alt="Portfolio and Activity Hub — screenshot 4" width="48%" /></a>
   <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/hob-web-5.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/hob-web-5.jpg" alt="Portfolio and Activity Hub — screenshot 5" width="48%" /></a>
+</div>
+
+<div align="center">
+  <p><strong>📱 Scan to Explore the Activity Hub</strong></p>
+  <a href="https://raw.githubusercontent.com/thanaponDev/assets/main/hob-web-qr.png"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/hob-web-qr.png" alt="Portfolio and Activity Hub QR code" width="180" /></a>
 </div>
 
 <details>
