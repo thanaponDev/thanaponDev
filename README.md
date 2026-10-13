@@ -254,7 +254,7 @@ Volunteer activities where I contributed to the community, helped others, and de
       <td valign="middle" align="left"><strong>ค่ายฝึกจิตอาสาพระราชทาน 904</strong></td>
       <td valign="middle" align="center">เขตบางเขน กรุงเทพมหานคร</td>
       <td valign="middle" align="center">ระดับประเทศ</td>
-      <td valign="middle" align="center"><sub>📷 เพิ่มรูปภายหลัง</sub></td>
+      <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/volunteer-1.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/volunteer-1.jpg" alt="จิตอาสาเก็บขยะชายหาดบางแสน activity" width="130" /></a></td>
       <td valign="middle" align="center"><sub>📷 เพิ่มรูปภายหลัง</sub></td>
       <td valign="middle" align="left">ฝึกปลูกข้าว สร้างบ้านดิน และเรียนรู้ภูมิปัญญาชาวบ้าน เพื่อนำไปใช้ในชีวิตประจำวันและถ่ายทอดความรู้ให้ผู้อื่น</td>
     </tr>
@@ -278,8 +278,8 @@ Volunteer activities where I contributed to the community, helped others, and de
       <td valign="middle" align="left"><strong>สตาฟและพี่ควบคุมทีม ROBO AI JUNIOR CHALLENGE 2024</strong></td>
       <td valign="middle" align="center">โรงเรียนสารสาสน์วิเทศบางบัวทอง</td>
       <td valign="middle" align="center">การศึกษา / เยาวชน</td>
-      <td valign="middle" align="center"><sub>📷 เพิ่มรูปภายหลัง</sub></td>
-      <td valign="middle" align="center"><sub>📷 เพิ่มรูปภายหลัง</sub></td>
+      <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/robo-junior.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/robo-junior.jpg" alt="จิตอาสาเก็บขยะชายหาดบางแสน activity" width="130" /></a></td>
+      <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/robo-junior-certificate.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/robo-junior-certificate.jpg" alt="จิตอาสาเก็บขยะชายหาดบางแสน activity" width="130" /></a></td>
       <td valign="middle" align="left">ดูแลและให้คำปรึกษาน้อง ๆ ในกิจกรรมหุ่นยนต์ ช่วยแนะนำการทำงานและแก้ปัญหาเพื่อให้น้องได้เรียนรู้และทำงานเป็นทีม</td>
     </tr>
   </tbody>
