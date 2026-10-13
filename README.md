@@ -104,19 +104,27 @@ A collection of robotics, innovation, and STEM competitions. **Click any certifi
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-stem-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-stem-robotic.jpg" alt="STEM Robotics certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/stem-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/stem-robotic.jpg" alt="STEM Robotics activity" width="215" /></a></td>
     </tr>
+  </tbody>
+</table>
+
+---
+
+## 🤝 Participation & Events
+
+Activities and events I have participated in. Certificates are included where available; activities without a matching photo are clearly marked.
+
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="28%">Participation / Event</th>
+      <th align="center" width="36%">Certificate</th>
+      <th align="center" width="36%">Activity Photo</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td valign="middle"><strong>Rocket — Certificate 1</strong><br/><sub>Level: To be confirmed</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-1.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-1.jpg" alt="Rocket — Certificate 1 certificate" width="195" /></a></td>
-      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
-    </tr>
-    <tr>
-      <td valign="middle"><strong>Rocket — Certificate 2</strong><br/><sub>Level: To be confirmed</sub></td>
-      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-2.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-2.jpg" alt="Rocket — Certificate 2 certificate" width="195" /></a></td>
-      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
-    </tr>
-    <tr>
-      <td valign="middle"><strong>Korat Event</strong><br/><sub>Level: To be confirmed</sub></td>
-      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate_korat.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate_korat.jpg" alt="Korat Event certificate" width="195" /></a></td>
       <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
     </tr>
   </tbody>
@@ -147,11 +155,6 @@ Practical learning experiences, workshops, and technical training in AI, robotic
       <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/training-arduino.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/training-arduino.jpg" alt="Arduino Training activity" width="215" /></a></td>
     </tr>
-    <tr>
-      <td valign="middle"><strong>KMITL Robotics</strong></td>
-      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
-      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/robotic_kmitl.PNG"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/robotic_kmitl.PNG" alt="KMITL Robotics activity" width="215" /></a></td>
-    </tr>
   </tbody>
 </table>
 
@@ -180,11 +183,6 @@ Volunteering activities and opportunities to support communities through partici
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-one-fine-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-one-fine-volunteer.jpg" alt="One Fine Volunteering certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/one-fine-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/one-fine-volunteer.jpg" alt="One Fine Volunteering activity" width="215" /></a></td>
     </tr>
-    <tr>
-      <td valign="middle"><strong>Staff &amp; Nurse Activity</strong></td>
-      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
-      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/staff_nurse.JPG"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/staff_nurse.JPG" alt="Staff &amp; Nurse Activity activity" width="215" /></a></td>
-    </tr>
   </tbody>
 </table>
 
@@ -192,7 +190,9 @@ Volunteering activities and opportunities to support communities through partici
 
 ## 🎓 My First Year at University
 
-Moments and activities from university life. The grouping below is **provisional** and can be refined when the activity details are confirmed.
+Moments, workshops, student activities, and competitions from my first year at university.
+
+### 📚 Campus Activities
 
 <table>
   <thead>
@@ -213,6 +213,58 @@ Moments and activities from university life. The grouping below is **provisional
       <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/shirt_award.jpeg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/shirt_award.jpeg" alt="Shirt Award activity" width="215" /></a></td>
     </tr>
+    <tr>
+      <td valign="middle"><strong>KMITL Robotics</strong></td>
+      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/robotic_kmitl.PNG"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/robotic_kmitl.PNG" alt="KMITL Robotics activity" width="215" /></a></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Staff &amp; Nurse Activity</strong></td>
+      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/staff_nurse.JPG"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/staff_nurse.JPG" alt="Staff &amp; Nurse Activity activity" width="215" /></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🏆 University Competitions
+
+Competitions from my first year at university. Competition level and details will be updated when confirmed.
+
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="28%">Competition &amp; Level</th>
+      <th align="center" width="36%">Certificate</th>
+      <th align="center" width="36%">Activity Photo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="middle"><strong>Korat Event</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate_korat.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate_korat.jpg" alt="Korat Event certificate" width="195" /></a></td>
+      <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 📜 Certificates Only
+
+Certificates without a corresponding activity photo in the current collection. Items assigned to **Participation** or **University Competitions** remain in their respective sections.
+
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="35%">Certificate / Event</th>
+      <th align="center" width="65%">Certificate</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="middle"><strong>Rocket — Certificate 2</strong></td>
+      <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-2.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-2.jpg" alt="Rocket — Certificate 2 certificate" width="260" /></a></td>
+          </tr>
   </tbody>
 </table>
 
