@@ -162,8 +162,8 @@ Activities and events I have participated in to gain hands-on experience, develo
       <td valign="middle" align="left"><strong>KMUTNB Innovation Awards 2024</strong></td>
       <td valign="middle" align="center">เข้าร่วมการแข่งขัน</td>
       <td valign="middle" align="center">ประเทศ</td>
-      <td valign="middle" align="center"><sub>📷 เพิ่มรูปภายหลัง</sub></td>
-      <td valign="middle" align="center"><sub>📷 เพิ่มรูปภายหลัง</sub></td>
+      <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/kmutnb-inno.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/kmutnb-inno.jpg" alt="Water Rocket Championship 24th certificate" width="128" /></a></td>
+      <td valign="middle" align="center"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/kmutnb-inno-certificate.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/kmutnb-inno-certificate.jpg" alt="Water Rocket Championship 24th certificate" width="128" /></a></td>
       <td valign="middle" align="left">พัฒนา Kerrybasket หุ่นยนต์ช่วยลำเลียงสิ่งของ เพื่ออำนวยความสะดวกในชีวิตประจำวัน รับผิดชอบจัดหาอุปกรณ์ ออกแบบ เขียนโค้ด และนำเสนอผลงาน</td>
     </tr>
     <tr>
