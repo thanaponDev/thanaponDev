@@ -41,11 +41,11 @@ I enjoy building web applications, learning about **embedded systems and robotic
 
 ### 🎓 Education & Interests
 
-| Education | Main Interests |
-| :-- | :-- |
-| **Field:** Computer Technology Education & Computer Engineering Education | **Software:** Web Development, AI & Computer Vision |
-| **Year:** First-Year Undergraduate | **Hardware:** Robotics, Microcontrollers, Electronics & IoT |
-| **University:** King Mongkut's Institute of Technology Ladkrabang | **Community:** Volunteering & Service Projects |
+| Education                                                                 | Main Interests                                              |
+| :------------------------------------------------------------------------ | :---------------------------------------------------------- |
+| **Field:** Computer Technology Education & Computer Engineering Education | **Software:** Web Development, AI & Computer Vision         |
+| **Year:** First-Year Undergraduate                                        | **Hardware:** Robotics, Microcontrollers, Electronics & IoT |
+| **University:** King Mongkut's Institute of Technology Ladkrabang         | **Community:** Volunteering & Service Projects              |
 
 ---
 
@@ -65,42 +65,42 @@ A collection of robotics, innovation, and STEM competitions. **Click any certifi
   </thead>
   <tbody>
     <tr>
-      <td valign="middle"><strong>Mini Robot Challenge</strong><br/><sub>Level: National level</sub></td>
+      <td valign="middle"><strong>Workshop Mini Robot Challange</strong><br/><sub>Level: National level</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot-cha.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot-cha.jpg" alt="Mini Robot Challenge certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot-cha.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot-cha.jpg" alt="Mini Robot Challenge activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>Mini Robot</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td valign="middle"><strong>Mini Robot Challange</strong><br/><sub>Level: Thailand</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-mini-robot.jpg" alt="Mini Robot certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/mini-robot.jpg" alt="Mini Robot activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>Innovex Gold</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td valign="middle"><strong>INNOVEDEX 2025 Robotics competition Thailand</strong><br/><sub>Level: Thailand</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-gold.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-gold.jpg" alt="Innovex Gold certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-gold.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-gold.jpg" alt="Innovex Gold activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>Innovex Robotics</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td valign="middle"><strong>INNOVEDEX 2025 Robotics competition Thailand</strong><br/><sub>Level: Thailand</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-innovex-robotic.jpg" alt="Innovex Robotics certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/innovex-robotic.jpg" alt="Innovex Robotics activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>Robo AI Innovation</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td valign="middle"><strong>Training : robotics and ai innovation 2023</strong><br/><sub>Level: To be confirmed</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-robo-ai-inno.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-robo-ai-inno.jpg" alt="Robo AI Innovation certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/robo-ai-inno.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/robo-ai-inno.jpg" alt="Robo AI Innovation activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>Computer &amp; Robotics</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td valign="middle"><strong>Medium Robot Challange</strong><br/><sub>Level: Thailand</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-compi-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-compi-robot.jpg" alt="Computer &amp; Robotics certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/compi-robot.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/compi-robot.jpg" alt="Computer &amp; Robotics activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>Sarasas Robotics</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td valign="middle"><strong>CODING & AI ROBOTICS COMPETITION</strong><br/><sub>Level: Thailand</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-sarasas-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-sarasas-robotic.jpg" alt="Sarasas Robotics certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/sarasas-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/sarasas-robotic.jpg" alt="Sarasas Robotics activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>STEM Robotics</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td valign="middle"><strong>Workshop Stem&Robotics camp</strong><br/><sub>Level: To be confirmed</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-stem-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-stem-robotic.jpg" alt="STEM Robotics certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/stem-robotic.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/stem-robotic.jpg" alt="STEM Robotics activity" width="215" /></a></td>
     </tr>
@@ -123,7 +123,7 @@ Activities and events I have participated in. Certificates are included where av
   </thead>
   <tbody>
     <tr>
-      <td valign="middle"><strong>Rocket — Certificate 1</strong><br/><sub>Level: To be confirmed</sub></td>
+      <td valign="middle"><strong>Water Rocket Championship 24th</strong><br/><sub>Level: To be confirmed</sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-1.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-rocket-1.jpg" alt="Rocket — Certificate 1 certificate" width="195" /></a></td>
       <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
     </tr>
@@ -151,7 +151,7 @@ Practical learning experiences, workshops, and technical training in AI, robotic
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/ai-next-gen.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/ai-next-gen.jpg" alt="AI Next Gen activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>Arduino Training</strong></td>
+      <td valign="middle"><strong>Workshop Basic Arduino Pid Line Follouer</strong></td>
       <td align="center" valign="middle"><sub><i>Not available</i></sub></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/training-arduino.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/training-arduino.jpg" alt="Arduino Training activity" width="215" /></a></td>
     </tr>
@@ -179,7 +179,7 @@ Volunteering activities and opportunities to support communities through partici
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/beach-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/beach-volunteer.jpg" alt="Beach Volunteering activity" width="215" /></a></td>
     </tr>
     <tr>
-      <td valign="middle"><strong>One Fine Volunteering</strong></td>
+      <td valign="middle"><strong>One Fine Day Volunteering</strong></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-one-fine-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/certificate-one-fine-volunteer.jpg" alt="One Fine Volunteering certificate" width="195" /></a></td>
       <td align="center" valign="middle"><a href="https://raw.githubusercontent.com/thanaponDev/assets/main/one-fine-volunteer.jpg"><img src="https://raw.githubusercontent.com/thanaponDev/assets/main/one-fine-volunteer.jpg" alt="One Fine Volunteering activity" width="215" /></a></td>
     </tr>
@@ -295,7 +295,7 @@ const projectNames = projects.map((project) => project.name);
 console.log("Things I love building:", projectNames.join(" | "));
 ```
 
-*Small experiments today, bigger engineering projects tomorrow.* 🚀
+_Small experiments today, bigger engineering projects tomorrow._ 🚀
 
 ---
 
@@ -426,33 +426,34 @@ These are technologies I **work with, am learning, or plan to explore** — not 
 
 ## 💡 Areas I Want to Build In
 
-| Direction | What I'd Like to Explore |
-| :-- | :-- |
-| 🤖 **Robotics & Automation** | Sensors, robot control, navigation, and real-world prototypes |
-| 🔌 **Embedded Systems & IoT** | Arduino, ESP32, monitoring devices, and wireless connectivity |
-| 🧠 **AI + Computer Vision** | Image processing, object detection, and on-device intelligence |
-| 🌐 **Web + Engineering** | Dashboards and interfaces that connect software with hardware |
-| 🌱 **Community Projects** | Accessible technology, student activities, and volunteering |
+| Direction                     | What I'd Like to Explore                                       |
+| :---------------------------- | :------------------------------------------------------------- |
+| 🤖 **Robotics & Automation**  | Sensors, robot control, navigation, and real-world prototypes  |
+| 🔌 **Embedded Systems & IoT** | Arduino, ESP32, monitoring devices, and wireless connectivity  |
+| 🧠 **AI + Computer Vision**   | Image processing, object detection, and on-device intelligence |
+| 🌐 **Web + Engineering**      | Dashboards and interfaces that connect software with hardware  |
+| 🌱 **Community Projects**     | Accessible technology, student activities, and volunteering    |
 
 ## 🚀 My Goal
 
 To grow into an engineer who can combine **software, electronics, robotics, and creativity** to build practical technologies that make a difference. I believe progress comes from curiosity, teamwork, and consistent hands-on practice.
 
 ---
+
 <div align="center">
   
 ## 🤝 Let's Connect
 
 Interested in engineering, projects, or volunteer activities? Feel free to connect!
 
-| Channel | Contact |
-| :-- | :-- |
-| 📞 **Phone** | [097-105-5825](tel:+66971055825) |
-| ✉️ **Email** | [thippaya.w1971@gmail.com](mailto:thippaya.w1971@gmail.com) |
-| 💬 **LINE** | `9660810teeratatwiboo` · [Add LINE Friend](https://line.me/ti/p/BGCkAemJQA) |
-| 👤 **Facebook** | [Teeratat Wiboonsanti](https://www.facebook.com/share/1HGtMA94CT/) |
-| 📸 **Instagram** | [@party_wiboonsanti](https://www.instagram.com/party_wiboonsanti/) |
-| 💻 **GitHub** | [github.com/Party](https://github.com/69030115-png) |
+| Channel          | Contact                                                                     |
+| :--------------- | :-------------------------------------------------------------------------- |
+| 📞 **Phone**     | [097-105-5825](tel:+66971055825)                                            |
+| ✉️ **Email**     | [thippaya.w1971@gmail.com](mailto:thippaya.w1971@gmail.com)                 |
+| 💬 **LINE**      | `9660810teeratatwiboo` · [Add LINE Friend](https://line.me/ti/p/BGCkAemJQA) |
+| 👤 **Facebook**  | [Teeratat Wiboonsanti](https://www.facebook.com/share/1HGtMA94CT/)          |
+| 📸 **Instagram** | [@party_wiboonsanti](https://www.instagram.com/party_wiboonsanti/)          |
+| 💻 **GitHub**    | [github.com/Party](https://github.com/69030115-png)                         |
 
 </div>
 
@@ -460,7 +461,7 @@ Interested in engineering, projects, or volunteer activities? Feel free to conne
 
 <img alt="GitHub stats for Party" src="https://github-readme-stats.vercel.app/api?username=69030115-png&show_icons=true&theme=tokyonight&hide_border=true" />
 
-*“Learning by doing, building with passion, and creating technology for a better future.”* 🚀
+_“Learning by doing, building with passion, and creating technology for a better future.”_ 🚀
 
 <img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:1e40af,100:06b6d4&height=105&section=footer" />
 
